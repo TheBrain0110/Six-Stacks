@@ -1,0 +1,12 @@
+{
+  "name": "Six Stacks",
+  "version": "0.1",
+  "factorio_version": "0.16",
+  "title": "Six's Stacks",
+  "author": "TheBrain0110",
+  "license": "https://opensource.org/licenses/MIT",
+  "contact": "",
+  "homepage": "",
+  "description": "Add misc stacking recipes for Deadlock's Stacking Beltboxes",
+  "dependencies": ["base >= 0.16", "DeadlockStacking", "? SimpleSilicon"]
+}
